@@ -13,22 +13,9 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 3. 
 4. 
 
-## Program:
-```
-/*
-Program to find the solution of a matrix using Gaussian Elimination.
-Developed by: 
-RegisterNumber: 
-*/
-```
-<img width="921" height="693" alt="image" src="https://github.com/user-attachments/assets/0992e2af-725b-4e1f-b441-36d4b0c65907" />
-
 
 ## Output:
-![gaussian elimination]()
-<img width="1285" height="629" alt="image" src="https://github.com/user-attachments/assets/2a952c0f-c4b8-45da-a4f8-28eb5a8708c3" />
-
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5d151312-5c10-494e-8b8e-53c4f1088ba9" />
 
 ## Result:
 Thus the program to find the solution of a matrix using Gaussian Elimination is written and verified using python programming.
-
