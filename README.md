@@ -22,7 +22,7 @@ Apply Gaussian Elimination to convert the matrix into row-echelon form and solve
 
 Step 4:
 
-Display the solution of the matrix as output.Step 1:
+Display the solution of the matrix as output.
 ## Output:
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5d151312-5c10-494e-8b8e-53c4f1088ba9" />
 
